@@ -1,3 +1,3 @@
 // Configuracion
 
-console.write('Config.js');
+console.log('Config.js');

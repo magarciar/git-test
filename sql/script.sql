@@ -4,4 +4,4 @@ dos VARCHAR(20)
 )
 
 
-CREATE INDEX
+-- NOTAS DE SQL
